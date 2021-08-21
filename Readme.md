@@ -9,15 +9,26 @@
 
 ---
 
-| days | jsinfo             | advjs         | ydkjs             |
-| :--: | ------------------ | ------------- | ----------------- |
-|  1   | **part1:** 1.1 1.2 | **appx I:** 1 | **up&going:** ch1 |
-|  2   | **part1:** 1.3 1.4 | **appx I:** 2 | **up&going:** ch2 |
-|  3   |                    |               |                   |
-|  4   |                    |               |                   |
-|  5   |                    |               |                   |
-|  6   |                    |               |                   |
-|  7   |                    |               |                   |
-|  8   |                    |               |                   |
-|  9   |                    |               |                   |
-|  10  |                    |               |                   |
+| days | jsinfo            | advjs            | ydkjs                   |
+| :--: | ----------------- | ---------------- | ----------------------- |
+|  1   | ✅ **1-** 1.1 1.2 | ✅ **appx I:** 1 | ✅ **up&going:** ch1    |
+|  2   | ✅ **1-** 1.3 1.4 | ✅ **appx I:** 2 | **up&going:** ch2       |
+|  3   | **1-** 2.1 2.2    | **appx I:** 3    | **up&going:** ch3       |
+|  4   |                   |                  | **scope&closures:** ch1 |
+|  5   |                   |                  |                         |
+|  6   |                   |                  |                         |
+|  7   |                   |                  |                         |
+|  8   |                   |                  |                         |
+|  9   |                   |                  |                         |
+|  10  |                   |                  |                         |
+
+## todo
+
+[ydkjs ch2](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch2.md)
+
+[jsinfo 2.1](https://javascript.info/hello-world)
+[jsinfo 2.2](https://javascript.info/structure)
+
+jsadv: app1 v7 v8
+
+✅
